@@ -1,0 +1,27 @@
+{
+  "Gender": "Male",
+  "Married": "Yes",
+  "Dependents": "1",
+  "Education": "Graduate",
+  "Self_Employed": "No",
+  "ApplicantIncome": 5000.0,
+  "CoapplicantIncome": 2000.0,
+  "LoanAmount": 150.0,
+  "Loan_Amount_Term": 360.0,
+  "Credit_History": 1.0,
+  "Property_Area": "Urban"
+}
+
+{
+  "Gender": "Male",
+  "Married": "No",
+  "Dependents": "0",
+  "Education": "Graduate",
+  "Self_Employed": "No",
+  "ApplicantIncome": 1000.0,
+  "CoapplicantIncome": 0.0,
+  "LoanAmount": 500.0,
+  "Loan_Amount_Term": 360.0,
+  "Credit_History": 0.0,
+  "Property_Area": "Rural"
+}
